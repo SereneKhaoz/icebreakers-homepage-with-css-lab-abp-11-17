@@ -35,3 +35,16 @@ nav a:hover{
   text-decoration: underline;
   color: #0056b3;
 }
+
+h3#header{
+  float: left;
+  font-size: 30px;
+}
+
+#header a{
+  color: #868e96;
+}
+
+#header a:hover {
+   text-decoration: underline;
+ }
