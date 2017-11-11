@@ -48,3 +48,50 @@ h3#header{
 #header a:hover {
    text-decoration: underline;
  }
+
+ main{
+   margin-top: 20px;
+ }
+
+ div.jumbotron{
+   border-radius: 5px;
+   background-color: #e9ecef;
+   padding: 10px;
+ }
+
+ .jumbotron h1{
+   font-size: 60px;
+ }
+
+ .jumbotron p {
+  font-size: 20px;
+  padding: 0 40px 0 40px;
+  line-height: 40px;
+}
+
+div.questions{
+  padding: 0 20px 0 20px;
+}
+
+div.questions h4{
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+div.questions p{
+ margin-top: 30px;
+}
+
+div.questions a.btn{
+ border-radius: 5px;
+ color: #fff;
+ border-color: #007bff;
+ background-color: #007bff;
+ text-decoration: none;
+ padding: 18px;
+ font-size: 20px;
+}
+
+footer{
+  border-top: 1px
+}
